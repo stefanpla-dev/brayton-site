@@ -2,7 +2,6 @@ import React, { useEffect }from 'react';
 import { Route, Routes, useLocation } from 'react-router-dom';
 import Header from './components/Header';
 import Navbar from './components/Navbar';
-import Footer from './components/Footer';
 import About from './components/About';
 import ChoralResume from './components/ChoralResume';
 import SocialWorkResume from './components/SocialWorkResume';
@@ -35,7 +34,6 @@ function App() {
             <Route path='/contact' element={<Contact />} />
           </Routes>
         </div>
-        <Footer />
       </div>
   )
 }
