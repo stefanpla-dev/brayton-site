@@ -1,7 +1,5 @@
 import React from 'react'
 
-
-
 function VideoCard({ title, url }) {
     let embedUrl = "";
 
