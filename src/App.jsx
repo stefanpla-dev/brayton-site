@@ -1,6 +1,5 @@
 import React, { useEffect }from 'react';
 import { Route, Routes, useLocation } from 'react-router-dom';
-import Header from './components/Header';
 import Navbar from './components/Navbar';
 import About from './components/About';
 import ChoralResume from './components/ChoralResume';
@@ -22,7 +21,6 @@ function App() {
 
   return (
       <div className="App">
-        <Header />
         <Navbar />
         <div className="content">
           <Routes>
