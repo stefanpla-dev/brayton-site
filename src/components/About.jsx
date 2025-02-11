@@ -1,8 +1,9 @@
 import React from 'react'
+import '../styles/About.css'
 
 function About() {
   return (
-    <div className="page">
+    <div className="about-page">
       <div className="about-text">
         <h3>Jared Brayton Bollenbacher, MM, MSW, LICSW (he/him)</h3>
         <p>
