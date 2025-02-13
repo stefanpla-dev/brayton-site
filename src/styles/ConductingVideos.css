@@ -1,9 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@400;700&display=swap');
+
 .video-card {
-    background: #fff;
+    background-color: #ebdfcf;
     padding: 15px;
     border-radius: 6px;
     box-shadow: 0 4px 8px rgba(0,0,0,0.2);
     text-align: center;
+    font-family: 'Josefin Sans', sans-serif;
   }
   
   .video-player {

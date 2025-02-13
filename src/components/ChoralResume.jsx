@@ -3,7 +3,11 @@ import '../styles/ChoralResume.css'
 
 function ChoralResume() {
   return (
-    <div className="page">ChoralResume</div>
+    <div className="choral-page">
+      <div className="resume-content"></div>
+      <div className="resume-image-1"></div>
+
+    </div>
   )
 }
 

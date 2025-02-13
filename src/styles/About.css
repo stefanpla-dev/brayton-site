@@ -10,6 +10,7 @@
     padding: 20px;
     max-width: 90vw;
     background-color: #ebdfcf;
+    border-radius: 6px;
   }
   
   .about-text {
@@ -21,7 +22,7 @@
   }
   
   .about-text h3 {
-    font-size: 1em;
+    font-size: 0.95em;
     text-decoration: underline;
     border-radius: 2px;
     padding: 4px;
