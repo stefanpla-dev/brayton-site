@@ -28,13 +28,14 @@
 
 .resume-text h2 {
     font-size: 1.1em;
+    text-decoration: underline;
 }
 
 .resume-text h3 {
     font-size: 1em;
 }
 
-.choral-images {
+/* .choral-images {
     display: flex;
     flex-direction: column;
     gap: 400px;
@@ -60,5 +61,5 @@
 
 .choral-image-3 {
     background-image: url('/src/assets/brayton-4.jpg');
-}
+} */
 
