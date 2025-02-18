@@ -84,6 +84,9 @@ function SocialWorkResume() {
           </div>
         </section>
       </div>
+      <div className="social-work-images">
+        <div className="social-work-image-1"></div>
+      </div>
     </div>
   )
 }
