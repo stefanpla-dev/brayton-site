@@ -231,6 +231,7 @@ function ChoralResume() {
         <div className="choral-image-1"></div>
         <div className="choral-image-2"></div>
         <div className="choral-image-3"></div>
+        <div className="choral-image-4"></div>
       </div>
     </div>
   )
