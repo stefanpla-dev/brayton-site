@@ -9,15 +9,33 @@ function ChoralResume() {
           <h2>Education</h2>
           <ul>
             <li><strong>University of Arizona (2018-2020)</strong> - Master of Music in Choral Conducting</li>
-            <li><strong>Washington State Department of Health (2014)</strong> - Licensed Independent Clinical Social Worker</li>
-            <li><strong>University of Washington (2008-2010)</strong> - Master of Social Work, Mental Health Concentration</li>
-            <li><strong>The Ohio State University (2002-2007)</strong> - Bachelor of Arts in Sexualities Studies</li>
             <li><strong>The Ohio State University (2002-2006)</strong> - Bachelor of Music, Vocal Performance</li>
           </ul>
         </section>
         <section className="resume-section">
           <h2>Choral Experience</h2>
           <div className="experience-item">
+            <h3>*Recurring Responsibilities as Artistic Director*</h3>
+            <ul>
+              <li>Recruit new singers and hold semester auditions</li>
+              <li>Lead weekly rehearsals that focus on learning music, vocal technique
+              and musicality through exercises and interesting choral arrangements</li>
+              <li>Plan musical retreats that focus on advancing choral singing technique,
+              developing show concepts, learning choreography and building singer
+              bonds</li>
+              <li>Meet with creative production team to develop concert scripts, create
+              multimedia presentations for concerts and social media, and arrange for
+              creation of props and costumes for all performances</li>
+              <li>Work with Board of Directors on developing yearly budget for concerts
+              and outreach events</li>
+              <li>Meet with donors and continue to engage their participation in our fund-
+              ing and events for the year</li>
+              <li>Work with other community arts organizations to collaborate for con-
+              certs and outreach events</li>
+              <li>Supervise Accompanist, Hired Musicians, Choreographer and American
+              Sign Language Interpreters</li>
+              <li>Serve as spokesperson for the organization</li>
+            </ul>
             <h3>Columbus Gay Men’s Chorus (2020-Present)</h3>
             <p><strong>Artistic Director</strong></p>
             <ul>

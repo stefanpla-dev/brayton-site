@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@400;700&display=swap');
+
+.social-work-page {
+    overflow-y: auto;
+    align-items: flex-start;
+    display: flex;
+    flex-wrap: wrap;
+    margin: 0 auto;
+    padding: 20px;
+    width: 100%;
+    max-width: 90vw;
+    background-color: #ebdfcf;
+    border-radius: 6px;
+  }
+
+  .resume-text {
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 0.85em;
+    text-align: left;
+    align-self: flex-start;
+    max-width: 55%;
+    line-height: 1.3;
+}
+
+.resume-text h1 {
+    font-size: 1.2em;
+}
+
+.resume-text h2 {
+    font-size: 1.1em;
+    text-decoration: underline;
+}
+
+.resume-text h3 {
+    font-size: 1em;
+}
