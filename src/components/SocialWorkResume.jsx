@@ -1,5 +1,6 @@
 import React from 'react'
 import '../styles/SocialWorkResume.css'
+import HomeButton from '../components/HomeButton';
 
 function SocialWorkResume() {
   return (
@@ -83,6 +84,7 @@ function SocialWorkResume() {
             </ul>
           </div>
         </section>
+        <HomeButton />
       </div>
       <div className="social-work-images">
         <div className="social-work-image-1"></div>
