@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@400;700&display=swap');
+
+.home-button-container {
+    text-align: center;
+    margin-top: 20px;
+}
+
+.home-button {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: aqua;
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+    border-radius: 6px;
+    transition: 0.3s;
+    font-family: 'Josefin Sans', sans-serif;
+}
+
+.home-button:hover {
+    background-color: turquoise;
+}
+

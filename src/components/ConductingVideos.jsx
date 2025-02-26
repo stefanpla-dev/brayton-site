@@ -1,6 +1,7 @@
 import React from 'react';
 import VideoCard from './VideoCard';
 import '../styles/ConductingVideos.css'
+import HomeButton from '../components/HomeButton';
 
 const videos = [
   {
@@ -77,6 +78,7 @@ function ConductingVideos() {
           />
         ))}
       </div>
+      <HomeButton />
     </div>
   )
 }

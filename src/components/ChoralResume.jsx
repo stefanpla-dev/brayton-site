@@ -1,5 +1,6 @@
 import React from 'react'
 import '../styles/ChoralResume.css'
+import HomeButton from '../components/HomeButton';
 
 function ChoralResume() {
   return (
@@ -226,6 +227,7 @@ function ChoralResume() {
             </ul>
           </div>
         </section>
+        <HomeButton />
       </div>
       <div className="choral-images">
         <div className="choral-image-1"></div>
