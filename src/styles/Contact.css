@@ -9,7 +9,7 @@
     margin: 0 auto;
     padding: 20px;
     max-width: 90vw;
-    background-color: #ebdfcf;
+    background-color: #69330d;
     border-radius: 6px;
 }
 
@@ -19,6 +19,7 @@
     text-align: left;
     align-self: flex-start;
     font-family: 'Josefin Sans', sans-serif;
+    color:rgba(255, 244, 230, 0.884)
 }
 
 .contact-text h3 {

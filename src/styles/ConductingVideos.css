@@ -1,25 +1,23 @@
 @import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@400;700&display=swap');
 
 .video-card {
-    background-color: #ebdfcf;
+    background-color: #ffffff;
     padding: 15px;
     border-radius: 6px;
-    box-shadow: 0 4px 8px rgba(0,0,0,0.2);
     text-align: center;
     font-family: 'Josefin Sans', sans-serif;
+    color: #69330d;
   }
   
   .video-player {
     width: 100%;
-    height: 200px;
-    margin-top: 10px;
+    height: 230px;
     border: none;
   }
   
   .video-grid {
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(400px, 1fr));
-    gap: 20px;
     justify-content: center;
     max-width: 1200px;
     margin: 0 auto;
@@ -29,5 +27,4 @@
     flex-grow: 1;
     overflow-y: auto;
     max-height: calc(100vh - 180px);
-    padding: 20px;
   }
