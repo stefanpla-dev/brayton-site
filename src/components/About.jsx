@@ -1,6 +1,7 @@
 import React from 'react'
 import '../styles/About.css'
 import HomeButton from '../components/HomeButton';
+import ImageCarousel from './ImageCarousel';
 
 function About() {
   return (
@@ -15,7 +16,7 @@ function About() {
         </p>
         <HomeButton />
       </div>
-      <div className="about-image"/>
+      <ImageCarousel />
     </div>
   )
 }

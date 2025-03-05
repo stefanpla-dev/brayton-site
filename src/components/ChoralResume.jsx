@@ -1,6 +1,7 @@
 import React from 'react'
 import '../styles/ChoralResume.css'
 import HomeButton from '../components/HomeButton';
+import ImageCarousel from './ImageCarousel';
 
 function ChoralResume() {
   return (
@@ -229,12 +230,7 @@ function ChoralResume() {
         </section>
         <HomeButton />
       </div>
-      <div className="choral-images">
-        <div className="choral-image-1"></div>
-        <div className="choral-image-2"></div>
-        <div className="choral-image-3"></div>
-        <div className="choral-image-4"></div>
-      </div>
+      <ImageCarousel />
     </div>
   )
 }
