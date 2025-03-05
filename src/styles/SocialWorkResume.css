@@ -37,19 +37,7 @@
     font-size: 1em;
 }
 
-.social-work-images {
-    display: flex;
-    flex-direction: column;
-    gap: 20px;
+.image-carousel {
     flex: 1;
     max-width: 40%;
-}
-
-.social-work-image-1 {
-    background-image: url('/src/assets/brayton-2.jpg');
-    margin-left: auto;
-    width: 100%;
-    height: 500px;
-    background-size: cover;
-    background-position: center;
 }
