@@ -5,7 +5,9 @@ import '../styles/HomeButton.css';
 function HomeButton() {
   return (
     <div className="home-button-container">
-        <Link to="/" classNAme="home-button">Home</Link>
+        <Link to="/" className="home-button">
+          <span>Home</span>
+        </Link>
     </div>
   );
 }
