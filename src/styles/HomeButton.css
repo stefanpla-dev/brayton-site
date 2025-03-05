@@ -1,23 +1,30 @@
 @import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@400;700&display=swap');
 
-.home-button-container {
-    text-align: center;
-    margin-top: 20px;
-}
-
 .home-button {
-    display: inline-block;
-    padding: 10px 20px;
-    background-color: aqua;
-    color: white;
-    text-decoration: none;
-    font-weight: bold;
-    border-radius: 6px;
-    transition: 0.3s;
+    display: flex;
+    align-items: center;
+    justify-content: center;
     font-family: 'Josefin Sans', sans-serif;
-}
+    width: 125px;
+    height: 30px;
+    border-radius: 5px;
+    position: relative;
+    overflow: hidden;
+    transition: all 0.5s ease-in;
+    z-index: 1;
+    text-decoration: none;
+    font-size: 1em;
+    font-weight: bold;
+    color:rgba(255, 244, 230, 0.884);
+    background-color: #e335d5;
+   }
+   
+   .home-button:hover {
+    color: white;
+   }
 
-.home-button:hover {
-    background-color: turquoise;
-}
+   .home-button span {
+    color: #eeeeee;
+    transition: all 0.3s ease-in;
+   }
 
