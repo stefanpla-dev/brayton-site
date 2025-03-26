@@ -1,46 +1,18 @@
 @import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@400;700&display=swap');
 
 .contact-page {
-    overflow-y: auto;
     align-items: center;
     display: flex;
-    flex-wrap: wrap;
-    justify-content: space-between;
-    margin: 0 auto;
+    justify-content: center;
     padding: 20px;
-    max-width: 90vw;
     background-color: #69330d;
     border-radius: 6px;
 }
 
 .contact-text {
     flex: 1;
-    max-width: 55%;
-    text-align: left;
-    align-self: flex-start;
+    max-width: 95%;
+    align-items: center;
     font-family: 'Josefin Sans', sans-serif;
     color:rgba(255, 244, 230, 0.884)
-}
-
-.contact-text h3 {
-    font-size: 0.95em;
-    text-decoration: underline;
-    border-radius: 2px;
-    padding: 4px;
-}
-
-.email-button {
-    display: inline-block;
-    padding: 10px 20px;
-    background-color: #a47b2e;
-    color: white;
-    text-decoration: none;
-    font-weight: bold;
-    border-radius: 6px;
-    transition: 0.3s;
-    box-shadow: 0 8px 15px rgba(111, 51, 23, 0.4)
-}
-
-.email-button:hover {
-    background-color: #875f1b;
 }
