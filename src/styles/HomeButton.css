@@ -17,6 +17,7 @@
     font-weight: bold;
     color:rgba(255, 244, 230, 0.884);
     background-color: #e335d5;
+    margin-top: 10px;
    }
    
    .home-button:hover {

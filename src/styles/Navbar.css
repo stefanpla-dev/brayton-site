@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@400;700&display=swap');
 
 .navbar {
-    background-color: #32f9fc;
+    background-color: rgb(50, 249, 252);
     padding: 5px 10px;
     height: 35px;
     display: flex;
